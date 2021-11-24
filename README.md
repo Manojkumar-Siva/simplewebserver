@@ -30,7 +30,20 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Welcome</h1>
+<h1>TOP FIVE PROGRAMMING LANGUAGES</h1>
+<h3> python-
+Python is a powerful general-purpose programming language. It is used in web development, data science, creating software prototypes, and so on. Fortunately for beginners, Python has simple easy-to-use syntax. This makes Python an excellent language to learn to program for beginners. </h3>
+
+<h3> C program-
+A successor to the programming language B, C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix. It has become one of the most widely used programming languages,[7][8] with C compilers from various vendors available for the majority of existing computer architectures and operating systems. C has been standardized by ANSI since 1989 (ANSI C) and by the International Organization for Standardization (ISO). </h3>
+
+<h3> C++ - C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms. C++ is fun and easy to learn! </h3>
+
+<h3> java-
+Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today’s digital world, by providing the reliable platform upon which many services and applications are built. New, innovative products and digital services designed for the future continue to rely on Java, as well. </h3>
+
+<h3> javascript-
+JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. ... JavaScript can function as both a procedural and an object oriented language. </h3>
 </body>
 </html>
 """
@@ -49,6 +62,10 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-
+### Server side Output
+![Server side output](./image/serveroutput.png)
+### Client side Output
+![Client side output](./image/Clientoutput.png)
 
 ## RESULT:
+Thus the webserver is developed is displayed about top five programming languages.
