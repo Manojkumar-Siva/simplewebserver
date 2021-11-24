@@ -66,6 +66,8 @@ httpd.serve_forever()
 ![Server side output](./image/serveroutput.png)
 ### Client side Output
 ![Client side output](./image/clientoutput.png)
+### Client side output
+![Client side output](./image/clientoutput.png)
 
 ## RESULT:
 Thus the webserver is developed is displayed about top five programming languages.
